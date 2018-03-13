@@ -1,0 +1,33 @@
+body {
+    background-color: black;
+    text-align: center;
+    color: rgb(249, 251, 253);
+}
+
+header > h1 {
+    font-family: 'Share Tech', sans-serif;
+    font-size: 60px;
+    margin: 50px auto;
+}
+
+h2 {
+    font-family: 'Share Tech', sans-serif;
+    font-size: 60px;
+}
+
+p, footer{ 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: block;
+    color: grey;
+    font-size: 21px;
+    margin: 20px 0;
+
+}
+.link {
+    color: aqua;
+    font-size: 18px;
+}
+
+footer {
+    text-align: right;
+}
